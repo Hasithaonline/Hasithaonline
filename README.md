@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="center">I'm a versatile professional skilled in content writing, blogging, and web development (HTML, CSS, JS, WordPress). Passionate about self-driven learning and digital solutions, I thrive on crafting engaging narratives and bringing web projects to life. Let's connect for innovative journeys in content and web development. 🌐✍️💻📚</h6>
+<h6 align="center">Versatile professional adept in Web development, Content Writing, And Blogging with expertise in HTML, CSS, JS, and WordPress. My passion for self-driven learning and digital solutions fuels my ability to craft compelling narratives and breathe life into web projects. Let's connect to embark on innovative journeys in content and web development. 🌐✍️💻📚 Excited about leveraging cutting-edge web technologies to create impactful and visually stunning online experiences. Check out my GitHub for a showcase of my coding prowess and collaborative projects!</h6>
 
 ###
 
@@ -40,6 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
 </div>
 
 ###
@@ -81,5 +89,9 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=@hasithaonline&theme=nightowl" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/hasithaonline/hasithaonline/output/snake.svg" alt="Snake animation" />
 
 ###
