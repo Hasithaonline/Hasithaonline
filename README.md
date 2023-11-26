@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithaonline&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -72,9 +72,6 @@
   <a href="https://www.instagram.com/hasithaonline/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:hello@hasithaonline.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.facebook.com/hasithaonline99/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
@@ -83,6 +80,9 @@
   </a>
   <a href="hasithaonline" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="mailto:hello@hasithaonline.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail%20Me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -98,6 +98,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hasithaonline/hasithaonline/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://image9897.000webhostapp.com/rodeo%20(750%20x%20200%20px)%20(1).gif"  />
+</div>
 
 ###
