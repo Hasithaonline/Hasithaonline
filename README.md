@@ -52,6 +52,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithaonline&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">👨‍💻 Find Me</h2>
 
 ###
