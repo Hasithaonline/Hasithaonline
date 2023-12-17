@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://hasithaonline.com/wp-content/uploads/2023/11/Web-Developer.png](https://rtgrgrthrthrthrth.000webhostapp.com/hero%20image.png)"  />
+  <img height="200" src="(https://rtgrgrthrthrthrth.000webhostapp.com/hero%20image.png)"  />
 </div>
 
 ###
