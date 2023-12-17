@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="center">Versatile professional adept in Web development, Content Writing, And Blogging with expertise in HTML, CSS, JS, and WordPress. My passion for self-driven learning and digital solutions fuels my ability to craft compelling narratives and breathe life into web projects. Let's connect to embark on innovative journeys in content and web development. 🌐✍️💻📚 Excited about leveraging cutting-edge web technologies to create impactful and visually stunning online experiences. Check out my GitHub for a showcase of my coding prowess and collaborative projects!</h6>
+<h6 align="center">Versatile professional adept in Programming, Content Writing, and Blogging with expertise in HTML, CSS, JS, Python, PHP, and WordPress. My passion for self-driven learning and digital solutions fuels my ability to craft compelling narratives and breathe life into web projects. Let's connect to embark on innovative journeys in content and programming. 🌐✍️💻📚 Excited about leveraging cutting-edge web technologies to create impactful and visually stunning online experiences. Check out my GitHub for a showcase of my coding prowess and collaborative projects!</h6>
 
 ###
 
