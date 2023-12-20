@@ -88,15 +88,7 @@
 
 ###
 
-<h2 align="left">📰 Visit My Latest Posts</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=@hasithaonline&theme=nightowl" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://image9897.000webhostapp.com/rodeo%20(750%20x%20200%20px)%20(1).gif"  />
